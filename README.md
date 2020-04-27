@@ -1,2 +1,2 @@
-# template-seminar
+# Seminar Template
 LaTeX-Template for seminar papers
